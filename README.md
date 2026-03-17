@@ -69,7 +69,7 @@ Linux 运维 | 自动化部署 | 线上问题排查 | 大促场景技术支撑 |
 working....
 
 ## 📊 GitHub 数据洞察
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoshuai1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues,contribs)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoshuai1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues,contribs) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshuai1024&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xiaoshuai1024&theme=tokyonight&hide_border=true&hide_longest_streak=true)
 
