@@ -1,0 +1,88 @@
+# 👋 Hi, I'm 肖帅
+
+### 前端架构师 | 全栈开发者 | 开源爱好者
+
+📧 邮箱：xiaosshuaii@gmail.com | 🌐 技术博客：https://xiaoshuai1024.github.io | 📍 所在地：山东 | ✨ 核心开源项目：Luban
+
+专注大型Web架构设计、低代码体系搭建、高可用优化，拥有11年分布式系统开发与架构经验，致力于通过技术赋能业务，沉淀可复用的技术方案。
+
+🚀 核心技术能力
+
+### 前端架构 & 工程化
+
+Vue/React  | Nuxt.js / Next.js 同构渲染 | Node.js BFF开发 | 前端研发规范落地 | 多端适配（PC/移动端）
+
+### 后端 & 分布式
+
+Spring Cloud 生态 | 高并发架构设计 | 高可用保障
+
+### 工程化 & 实战能力
+
+Linux 运维 | 自动化部署 | 线上问题排查 | 大促场景技术支撑 | 旧系统升级与迁移
+
+💼 核心职业经历
+
+#### 研发负责人 | 京东云
+
+主导企业级Web系统、营销平台的架构设计与开发，统筹前端、后端跨角色团队，负责技术方案落地与团队管理，核心成果：
+
+- 主导低代码平台「鲁班」从0到1落地，支撑大促场景高效迭代，实现研发成本降低70%，系统可用性99.99%
+
+- 推动前端架构升级，完成SSR改造与CDN优化，系统吞吐量提升5倍，解决高并发场景下的性能瓶颈
+
+- 制定前端研发规范，完成百万行代码技术升级，搭建团队知识库，提升跨部门协作效率60%
+
+📌 核心标杆项目
+
+### 一体化营销系统
+
+作为系统负责人，统筹架构设计与开发落地，核心亮点：
+
+- 技术栈：Vue + Node.js + SpringBoot + 低代码平台
+
+- 核心功能：接口聚合、可视化配置、高可用部署，支撑每日百万级访问量
+
+- 成果：实现营销活动快速上线，运营效率提升80%，系统零重大故障
+
+🌟 开源项目
+
+### 🔧 Luban - 低代码开发平台
+
+基于企业级场景沉淀的低代码解决方案，适配中小团队快速搭建业务系统，降低研发成本
+
+- 技术栈：Vue3 + Nuxt.js + Next.js + Java + Go 
+
+- 核心特性：可视化拖拽配置、多端适配、高可扩展、与业务系统无缝集成
+
+- 适用场景：后台管理系统、营销活动页面、简单业务系统快速搭建
+
+- 👉 GitHub地址：https://github.com/xiaoshuai1024/luban-ui
+
+### 📝 个人技术博客
+
+基于Hugo搭建，专注分享前端架构、工程化、高可用优化等实战经验，持续输出技术干货
+
+👉 访问地址：https://xiaoshuai1024.github.io
+
+### 🛠 其他开源项目
+
+working....
+
+## 📊 GitHub 数据洞察
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoshuai1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues,contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshuai1024&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xiaoshuai1024&theme=tokyonight&hide_border=true&hide_longest_streak=true)
+
+### 📈 代码提交热力图
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaoshuai1024&theme=tokyonight&hide_border=true&area=true)
+
+✨ 关于我
+
+11年前端架构与全栈开发经验，从一线开发成长为研发负责人，擅长将复杂业务场景转化为高效、可扩展的技术方案。
+
+专注开源生态建设，将企业级项目的实战经验沉淀为可复用的技术模板与开源项目，希望通过技术分享与合作，助力更多开发者提升效率、降低研发成本。
+
+### 🤝 技术交流与合作
+
+聚焦分布式架构、低代码、高可用优化等方向，欢迎交流技术、提交PR/Issue，共同完善开源项目！
+
