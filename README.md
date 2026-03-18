@@ -1,5 +1,13 @@
 # 👋 Hi, I'm 肖帅
 
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![开源](https://img.shields.io/badge/-开源-10B981?style=flat&logo=github&logoColor=white)
+![低代码](https://img.shields.io/badge/-低代码-6366F1?style=flat&logo=visual-studio-code&logoColor=white)
+![AI Programming](https://img.shields.io/badge/-AI%20Programming-7C3AED?style=flat&logo=openai&logoColor=white)
+![Work From Home](https://img.shields.io/badge/-Work%20From%20Home-60A5FA?style=flat&logo=home&logoColor=white)
+
 ✨ 关于我
 
 11年前端与全栈开发经验，从一线开发成长为研发负责人，擅长将复杂业务场景转化为高效、可扩展的技术方案。
