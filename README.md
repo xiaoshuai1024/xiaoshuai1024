@@ -3,6 +3,8 @@
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![SSR](https://img.shields.io/badge/-SSR-000000?style=flat&logo=serverless&logoColor=white)
+![架构设计](https://img.shields.io/badge/-架构设计-8B5CF6?style=flat&logo=diagram-next&logoColor=white)
 ![开源](https://img.shields.io/badge/-开源-10B981?style=flat&logo=github&logoColor=white)
 ![低代码](https://img.shields.io/badge/-低代码-6366F1?style=flat&logo=visual-studio-code&logoColor=white)
 ![AI Programming](https://img.shields.io/badge/-AI%20Programming-7C3AED?style=flat&logo=openai&logoColor=white)
