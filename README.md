@@ -98,7 +98,7 @@ working....
 
 
 ### 📈 代码提交热力图
-<img width=600 src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoshuai1024&theme=tokyonight&hide_border=true&area=true" />
+<img width=600 src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoshuai1024&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true&hide_title=true" />
 
 
 
