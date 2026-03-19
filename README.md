@@ -92,7 +92,7 @@ working....
 
 ## 📊 GitHub 数据洞察
 
-<img width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshuai1024&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" />
+<img width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?user=xiaoshuai1024&layout=compact&theme=tokyonight&hide_border=true&hide=html&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&username=xiaoshuai1024" />
 
 <img width=600 src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoshuai1024&theme=tokyonight&hide_border=true&hide_longest_streak=true" />
 
