@@ -88,7 +88,7 @@ Linux 运维 | 自动化部署 | 线上问题排查 | 大促场景技术支撑 |
 
 ### 🛠 其他开源项目
 
-working....
+[update-your-vue2](https://github.com/xiaoshuai1024/update-your-vue2)  通过解析项目结构和代码，升级vue2项目到vue3的cli工具
 
 ## 📊 GitHub 数据洞察
 
