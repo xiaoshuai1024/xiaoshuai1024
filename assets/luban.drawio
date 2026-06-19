@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Luban低代码平台" id="luban">
+    <mxGraphModel dx="1200" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="520" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="container" value="Luban · 低代码平台 — monorepo（meta 仓 + 11 子模块）" style="rounded=1;sketch=1;dashed=1;dashPattern=10 6;fillColor=#ffffff;strokeColor=#94a3b8;fontColor=#475569;fontSize=13;fontStyle=2;verticalAlign=top;align=left;spacingLeft=16;spacingTop=10;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1160" height="470" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="h1" value="搭建 · 引擎" style="text;sketch=1;html=1;strokeColor=none;fillColor=none;fontColor=#64748b;fontSize=13;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="55" width="160" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="h2" value="多端交付" style="text;sketch=1;html=1;strokeColor=none;fillColor=none;fontColor=#64748b;fontSize=13;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="55" width="160" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="h3" value="服务层" style="text;sketch=1;html=1;strokeColor=none;fillColor=none;fontColor=#64748b;fontSize=13;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="870" y="55" width="160" height="24" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="ui" value="&lt;b&gt;luban-ui&lt;/b&gt;&lt;br&gt;物料库 · Vue3" style="rounded=1;sketch=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontColor=#1e293b;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="92" width="300" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="engine" value="&lt;b&gt;luban&lt;/b&gt;&lt;br&gt;渲染引擎 · TypeScript" style="rounded=1;sketch=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontColor=#1e293b;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="178" width="300" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="ai" value="&lt;b&gt;luban-ai-assistant&lt;/b&gt;&lt;br&gt;AI 助手 · 图生页面（开发中）" style="rounded=1;sketch=1;dashed=1;dashPattern=8 5;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontColor=#1e293b;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="268" width="300" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="website" value="&lt;b&gt;luban-website&lt;/b&gt;&lt;br&gt;Web SSR · Nuxt" style="rounded=1;sketch=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontColor=#1e293b;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="92" width="300" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="electron" value="&lt;b&gt;luban-electron&lt;/b&gt; · 桌面（规划中）" style="rounded=1;sketch=1;dashed=1;dashPattern=6 4;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontColor=#94a3b8;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="300" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="flutter" value="&lt;b&gt;luban-flutter&lt;/b&gt; · 移动（规划中）" style="rounded=1;sketch=1;dashed=1;dashPattern=6 4;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontColor=#94a3b8;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="236" width="300" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="cross" value="&lt;b&gt;luban-cross-plateform&lt;/b&gt; · 跨平台（规划中）" style="rounded=1;sketch=1;dashed=1;dashPattern=6 4;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;fontColor=#94a3b8;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="302" width="300" height="50" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="bff" value="&lt;b&gt;luban-bff&lt;/b&gt;&lt;br&gt;BFF · TypeScript" style="rounded=1;sketch=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontColor=#1e293b;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="92" width="290" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="backend" value="&lt;b&gt;luban-backend&lt;/b&gt;&lt;br&gt;Java" style="rounded=1;sketch=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontColor=#1e293b;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="178" width="290" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="backendgo" value="&lt;b&gt;luban-backend-go&lt;/b&gt;&lt;br&gt;Go" style="rounded=1;sketch=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2563eb;fontColor=#1e293b;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="264" width="290" height="58" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="docs" value="&lt;b&gt;luban-architecture-design&lt;/b&gt; · 架构文档" style="rounded=1;sketch=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#64748b;fontColor=#475569;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="402" width="400" height="50" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e1" value="schema" style="sketch=1;jollyArrow=1;edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#64748b;fontColor=#475569;fontSize=11;endArrow=classic;" edge="1" parent="1" source="ui" target="engine">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e2" value="图生页面" style="sketch=1;jollyArrow=1;dashed=1;dashPattern=8 5;edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#2563eb;fontColor=#2563eb;fontSize=11;endArrow=classic;" edge="1" parent="1" source="ai" target="engine">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e3" value="渲染" style="sketch=1;jollyArrow=1;edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#64748b;fontColor=#475569;fontSize=11;endArrow=classic;" edge="1" parent="1" source="engine" target="website">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e4" value="接口" style="sketch=1;jollyArrow=1;dashed=1;dashPattern=8 5;edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#64748b;fontColor=#475569;fontSize=11;endArrow=classic;" edge="1" parent="1" source="website" target="bff">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e5" value="数据" style="sketch=1;jollyArrow=1;edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#64748b;fontColor=#475569;fontSize=11;endArrow=classic;" edge="1" parent="1" source="bff" target="backend">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
